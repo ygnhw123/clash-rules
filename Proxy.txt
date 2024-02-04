@@ -96,7 +96,7 @@ payload:
   - '+.githubusercontent.com'
 
   # Telegram
-  - '+.t.me
+  - '+.t.me'
   - '+.telegram.me'
   - '+.telegram.net'
   - '+.telegram.org'
