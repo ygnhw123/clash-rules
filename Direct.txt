@@ -1,235 +1,230 @@
 payload:
-  - # TLD
-  - DOMAIN-SUFFIX , cn
+  # TLD
+  - '+.cn'
 
-  - # Apple
-  - DOMAIN-SUFFIX , me.com
-  - DOMAIN-SUFFIX , apple.com
-  - DOMAIN-SUFFIX , itunes.com
-  - DOMAIN-SUFFIX , icloud.com
-  - DOMAIN-SUFFIX , aaplimg.com
-  - DOMAIN-SUFFIX , appstore.com
-  - DOMAIN-SUFFIX , mzstatic.com
-  - DOMAIN-SUFFIX , cdn-apple.com
-  - DOMAIN-SUFFIX , apple-mapkit.com
+  # Apple
+  - '+.me.com'
+  - '+.apple.com'
+  - '+.itunes.com'
+  - '+.icloud.com'
+  - '+.aaplimg.com'
+  - '+.appstore.com'
+  - '+.mzstatic.com'
+  - '+.cdn-apple.com'
+  - '+.apple-mapkit.com'
 
-  - # Alibaba
-  - DOMAIN-SUFFIX , tanx.com
-  - DOMAIN-SUFFIX , tbcdn.cn
-  - DOMAIN-SUFFIX , 1688.com
-  - DOMAIN-SUFFIX , etao.com
-  - DOMAIN-SUFFIX , tmall.com
-  - DOMAIN-SUFFIX , tbcdn.com
-  - DOMAIN-SUFFIX , xiami.com
-  - DOMAIN-SUFFIX , xiami.net
-  - DOMAIN-SUFFIX , hupan.com
-  - DOMAIN-SUFFIX , fliggy.com
-  - DOMAIN-SUFFIX , taobao.com
-  - DOMAIN-SUFFIX , mmstat.com
-  - DOMAIN-SUFFIX , aliyun.com
-  - DOMAIN-SUFFIX , alidns.com
-  - DOMAIN-SUFFIX , alicdn.com
-  - DOMAIN-SUFFIX , aliapp.org
-  - DOMAIN-SUFFIX , alipay.com
-  - DOMAIN-SUFFIX , alibaba.com
-  - DOMAIN-SUFFIX , dingtalk.com
-  - DOMAIN-SUFFIX , aliyuncs.com
-  - DOMAIN-SUFFIX , alipaylog.com
-  - DOMAIN-SUFFIX , taobaocdn.com
-  - DOMAIN-SUFFIX , alibabacloud.com
-  - DOMAIN-SUFFIX , alipayobjects.com
+  # Alibaba
+  - '+.tanx.com'
+  - '+.tbcdn.cn'
+  - '+.1688.com'
+  - '+.etao.com'
+  - '+.tmall.com'
+  - '+.tbcdn.com'
+  - '+.xiami.com'
+  - '+.xiami.net'
+  - '+.hupan.com'
+  - '+.fliggy.com'
+  - '+.taobao.com'
+  - '+.mmstat.com'
+  - '+.aliyun.com'
+  - '+.alidns.com'
+  - '+.alicdn.com'
+  - '+.aliapp.org'
+  - '+.alipay.com'
+  - '+.alibaba.com'
+  - '+.dingtalk.com'
+  - '+.aliyuncs.com'
+  - '+.alipaylog.com'
+  - '+.taobaocdn.com'
+  - '+.alibabacloud.com'
+  - '+.alipayobjects.com'
 
-  - # Tencent
-  - DOMAIN-SUFFIX , qq.com
-  - DOMAIN-SUFFIX , dns.pub
-  - DOMAIN-SUFFIX , doh.pub
-  - DOMAIN-SUFFIX , qlogo.cn
-  - DOMAIN-SUFFIX , gtimg.com
-  - DOMAIN-SUFFIX , dnspod.com
-  - DOMAIN-SUFFIX , qcloud.com
-  - DOMAIN-SUFFIX , weixin.com
-  - DOMAIN-SUFFIX , qqmail.com
-  - DOMAIN-SUFFIX , weiyun.com
-  - DOMAIN-SUFFIX , tenpay.com
-  - DOMAIN-SUFFIX , discuz.net
-  - DOMAIN-SUFFIX , tencent.com
-  - DOMAIN-SUFFIX , cdntips.net
-  - DOMAIN-SUFFIX , myqcloud.com
-  - DOMAIN-SUFFIX , qcloudcdn.com
-  - DOMAIN-SUFFIX , servicewechat.com
-  - DOMAIN-SUFFIX , tencent-cloud.net
+  # Tencent
+  - '+.qq.com'
+  - '+.dns.pub'
+  - '+.doh.pub'
+  - '+.qlogo.cn'
+  - '+.gtimg.com'
+  - '+.dnspod.com'
+  - '+.qcloud.com'
+  - '+.weixin.com'
+  - '+.qqmail.com'
+  - '+.weiyun.com'
+  - '+.tenpay.com'
+  - '+.discuz.net'
+  - '+.tencent.com'
+  - '+.cdntips.net'
+  - '+.myqcloud.com'
+  - '+.qcloudcdn.com'
+  - '+.servicewechat.com'
+  - '+.tencent-cloud.net'
 
-  - # Baidu
-  - DOMAIN-SUFFIX , baidu.com
-  - DOMAIN-SUFFIX , bdimg.com
-  - DOMAIN-SUFFIX , tieba.com
-  - DOMAIN-SUFFIX , bcebos.com
-  - DOMAIN-SUFFIX , shifen.com
-  - DOMAIN-SUFFIX , baixing.com
-  - DOMAIN-SUFFIX , bdstatic.com
-  - DOMAIN-SUFFIX , tiebaimg.com
+  # Baidu
+  - '+.baidu.com'
+  - '+.bdimg.com'
+  - '+.tieba.com'
+  - '+.bcebos.com'
+  - '+.shifen.com'
+  - '+.baixing.com'
+  - '+.bdstatic.com'
+  - '+.tiebaimg.com'
 
-  - # Netease
-  - DOMAIN-SUFFIX , 163.com
-  - DOMAIN-SUFFIX , 126.com
-  - DOMAIN-SUFFIX , 126.net
-  - DOMAIN-SUFFIX , 127.net
-  - DOMAIN-SUFFIX , youdao.com
-  - DOMAIN-SUFFIX , netease.com
-  - DOMAIN-SUFFIX , ydstatic.com
+  # Netease
+  - '+.163.com'
+  - '+.126.com'
+  - '+.126.net'
+  - '+.127.net'
+  - '+.youdao.com'
+  - '+.netease.com'
+  - '+.ydstatic.com'
 
-  - # Xiaomi
-  - DOMAIN-SUFFIX , mi.com
-  - DOMAIN-SUFFIX , mi.net
-  - DOMAIN-SUFFIX , miui.com
-  - DOMAIN-SUFFIX , miui.net
-  - DOMAIN-SUFFIX , xiaomi.com
-  - DOMAIN-SUFFIX , xiaomi.net
+  # Xiaomi
+  - '+.mi.com'
+  - '+.mi.net'
+  - '+.miui.com'
+  - '+.miui.net'
+  - '+.xiaomi.com'
+  - '+.xiaomi.net'
 
-  - # Acfun
-  - DOMAIN-SUFFIX , acfun.cn
-  - DOMAIN-SUFFIX , acfun.com
-  - DOMAIN-SUFFIX , xiatou.com
-  - DOMAIN-SUFFIX , aixifan.com
+  # Acfun
+  - '+.acfun.cn'
+  - '+.acfun.com'
+  - '+.xiatou.com'
+  - '+.aixifan.com'
 
-  - # Bilibili
-  - DOMAIN-SUFFIX , hdslb.com
-  - DOMAIN-SUFFIX , biliapi.com
-  - DOMAIN-SUFFIX , biliapi.net
-  - DOMAIN-SUFFIX , bilibili.tv
-  - DOMAIN-SUFFIX , bilibili.com
-  - DOMAIN-SUFFIX , biligame.com
-  - DOMAIN-SUFFIX , biligame.net
-  - DOMAIN-SUFFIX , bilivideo.com
-  - DOMAIN-SUFFIX , acgvideo.com
+  # Bilibili
+  - '+.hdslb.com'
+  - '+.biliapi.com'
+  - '+.biliapi.net'
+  - '+.bilibili.tv'
+  - '+.bilibili.com'
+  - '+.biligame.com'
+  - '+.biligame.net'
+  - '+.acgvideo.com'
+  - '+.bilivideo.com'
 
-  - # Zhihu
-  - DOMAIN-SUFFIX , zhihu.com
-  - DOMAIN-SUFFIX , zhimg.com
+  # Zhihu
+  - '+.zhihu.com'
+  - '+.zhimg.com'
 
-  - # JD
-  - DOMAIN-SUFFIX , jd.com
-  - DOMAIN-SUFFIX , jdpay.com
-  - DOMAIN-SUFFIX , 360buyimg.com
+  # JD
+  - '+.jd.com'
+  - '+.jdpay.com'
+  - '+.360buyimg.com'
 
-  - # PDD
-  - DOMAIN-SUFFIX , pddpic.com
-  - DOMAIN-SUFFIX , pinduoduo.com
+  # PDD
+  - '+.pddpic.com'
+  - '+.pinduoduo.com'
 
-  - # Weibo
-  - DOMAIN-SUFFIX , weico.cc
-  - DOMAIN-SUFFIX , weibo.cn
-  - DOMAIN-SUFFIX , sina.com
-  - DOMAIN-SUFFIX , weibo.com
-  - DOMAIN-SUFFIX , sinaimg.cn
-  - DOMAIN-SUFFIX , sinaimg.com
-  - DOMAIN-SUFFIX , sinaapp.com
-  - DOMAIN-SUFFIX , weibocdn.com
+  # Weibo
+  - '+.weico.cc'
+  - '+.weibo.cn'
+  - '+.sina.com'
+  - '+.weibo.com'
+  - '+.sinaimg.cn'
+  - '+.sinaimg.com'
+  - '+.sinaapp.com'
+  - '+.weibocdn.com'
 
-  - # CMCC
-  - DOMAIN-SUFFIX , 10086.cn
-  - DOMAIN-SUFFIX , 10086.com
-  - DOMAIN-SUFFIX , cmvideo.cn
-  - DOMAIN-SUFFIX , komect.com
-  - DOMAIN-SUFFIX , miguvideo.com
-  - DOMAIN-SUFFIX , cmpassport.com
-  - DOMAIN-SUFFIX , chinamobile.com
+  # CMCC
+  - '+.10086.cn'
+  - '+.10086.com'
+  - '+.cmvideo.cn'
+  - '+.komect.com'
+  - '+.miguvideo.com'
+  - '+.cmpassport.com'
+  - '+.chinamobile.com'
 
-  - # CT
-  - DOMAIN-SUFFIX , 189.cn
-  - DOMAIN-SUFFIX , 189.com
-  - DOMAIN-SUFFIX , tv189.cn
-  - DOMAIN-SUFFIX , ctyun.cn
-  - DOMAIN-SUFFIX , tv189.com
-  - DOMAIN-SUFFIX , ctyun.com
-  - DOMAIN-SUFFIX , ctclouds.com
+  # CT
+  - '+.189.cn'
+  - '+.189.com'
+  - '+.tv189.cn'
+  - '+.ctyun.cn'
+  - '+.tv189.com'
+  - '+.ctyun.com'
+  - '+.ctclouds.com'
 
-  - # CU
-  - DOMAIN-SUFFIX , mob.com
-  - DOMAIN-SUFFIX , 10010.cn
-  - DOMAIN-SUFFIX , 10010.com
-  - DOMAIN-SUFFIX , chinaunicom.cn
+  # CU
+  - '+.mob.com'
+  - '+.10010.cn'
+  - '+.10010.com'
+  - '+.chinaunicom.cn'
 
-  - # Meituan
-  - DOMAIN-SUFFIX , sankuai.com
-  - DOMAIN-SUFFIX , meituan.com
-  - DOMAIN-SUFFIX , meituan.net
-  - DOMAIN-SUFFIX , dianping.com
-  - DOMAIN-SUFFIX , dianping.net
+  # Meituan
+  - '+.sankuai.com'
+  - '+.meituan.com'
+  - '+.meituan.net'
+  - '+.dianping.com'
+  - '+.dianping.net'
 
-  - # Ctrip
-  - DOMAIN-SUFFIX , ctrip.com
-  - DOMAIN-SUFFIX , tripcdn.cn
-  - DOMAIN-SUFFIX , c-ctrip.com
+  # Ctrip
+  - '+.ctrip.com'
+  - '+.tripcdn.cn'
+  - '+.c-ctrip.com'
 
-  - # Other
-  - DOMAIN-SUFFIX , ele.me
-  - DOMAIN-SUFFIX , bosc.cn
-  - DOMAIN-SUFFIX , xsx.net
-  - DOMAIN-SUFFIX , vzuu.com
-  - DOMAIN-SUFFIX , srcb.com
-  - DOMAIN-SUFFIX , ipip.net
-  - DOMAIN-SUFFIX , sohu.com
-  - DOMAIN-SUFFIX , amap.com
-  - DOMAIN-SUFFIX , 12306.cn
-  - DOMAIN-SUFFIX , youku.com
-  - DOMAIN-SUFFIX , sspai.com
-  - DOMAIN-SUFFIX , gaode.com
-  - DOMAIN-SUFFIX , amemv.com
-  - DOMAIN-SUFFIX , offcn.com
-  - DOMAIN-SUFFIX , umeng.com
-  - DOMAIN-SUFFIX , wdjky.com
-  - DOMAIN-SUFFIX , getui.net
-  - DOMAIN-SUFFIX , getui.com
-  - DOMAIN-SUFFIX , fenbi.com
-  - DOMAIN-SUFFIX , ip138.com
-  - DOMAIN-SUFFIX , ddxq.mobi
-  - DOMAIN-SUFFIX , cpatrk.net
-  - DOMAIN-SUFFIX , ddimg.mobi
-  - DOMAIN-SUFFIX , bytecdn.cn
-  - DOMAIN-SUFFIX , yximgs.com
-  - DOMAIN-SUFFIX , snssdk.com
-  - DOMAIN-SUFFIX , qidian.com
-  - DOMAIN-SUFFIX , aiqiyi.com
-  - DOMAIN-SUFFIX , douban.com
-  - DOMAIN-SUFFIX , huawei.com
-  - DOMAIN-SUFFIX , eoffcn.com
-  - DOMAIN-SUFFIX , mincdn.com
-  - DOMAIN-SUFFIX , inkuai.com
-  - DOMAIN-SUFFIX , ixigua.com
-  - DOMAIN-SUFFIX , pstatp.com
-  - DOMAIN-SUFFIX , douyin.com
-  - DOMAIN-SUFFIX , tiktok.com
-  - DOMAIN-SUFFIX , ssscdn.com
-  - DOMAIN-SUFFIX , dutils.com
-  - DOMAIN-SUFFIX , meiqia.com
-  - DOMAIN-SUFFIX , bootcss.com
-  - DOMAIN-SUFFIX , icbc.com.cn
-  - DOMAIN-SUFFIX , spdb.com.cn
-  - DOMAIN-SUFFIX , qiniudn.com
-  - DOMAIN-SUFFIX , baishan.com
-  - DOMAIN-SUFFIX , eshimin.com
-  - DOMAIN-SUFFIX , toutiao.com
-  - DOMAIN-SUFFIX , huoshan.com
-  - DOMAIN-SUFFIX , gifshow.com
-  - DOMAIN-SUFFIX , autonavi.com
-  - DOMAIN-SUFFIX , eshiyun.info
-  - DOMAIN-SUFFIX , bankcomm.com
-  - DOMAIN-SUFFIX , miaozhen.com
-  - DOMAIN-SUFFIX , doubanio.com
-  - DOMAIN-SUFFIX , gamersky.com
-  - DOMAIN-SUFFIX , kuaishou.com
-  - DOMAIN-SUFFIX , youai123.com
-  - DOMAIN-SUFFIX , elemecdn.com
-  - DOMAIN-SUFFIX , iesdouyin.com
-  - DOMAIN-SUFFIX , manmanbuy.com
-  - DOMAIN-SUFFIX , globalsign.com
-  - DOMAIN-SUFFIX , ctobsnssdk.com
-  - DOMAIN-SUFFIX , ampproject.com
-  - DOMAIN-SUFFIX , ampproject.org
-  - DOMAIN-SUFFIX , ixiguavideo.com
-
-  - # PrivateIP
-  - IP-CIDR , 10.0.0.0/8
-  - IP-CIDR , 172.16.0.0/12
-  - IP-CIDR , 192.168.0.0/16
+  # Other
+  - '+.ele.me'
+  - '+.bosc.cn'
+  - '+.xsx.net'
+  - '+.vzuu.com'
+  - '+.srcb.com'
+  - '+.ipip.net'
+  - '+.sohu.com'
+  - '+.amap.com'
+  - '+.12306.cn'
+  - '+.youku.com'
+  - '+.sspai.com'
+  - '+.gaode.com'
+  - '+.amemv.com'
+  - '+.offcn.com'
+  - '+.umeng.com'
+  - '+.wdjky.com'
+  - '+.getui.net'
+  - '+.getui.com'
+  - '+.fenbi.com'
+  - '+.ip138.com'
+  - '+.ddxq.mobi'
+  - '+.cpatrk.net'
+  - '+.ddimg.mobi'
+  - '+.bytecdn.cn'
+  - '+.yximgs.com'
+  - '+.snssdk.com'
+  - '+.qidian.com'
+  - '+.aiqiyi.com'
+  - '+.douban.com'
+  - '+.huawei.com'
+  - '+.eoffcn.com'
+  - '+.mincdn.com'
+  - '+.inkuai.com'
+  - '+.ixigua.com'
+  - '+.pstatp.com'
+  - '+.douyin.com'
+  - '+.tiktok.com'
+  - '+.ssscdn.com'
+  - '+.dutils.com'
+  - '+.meiqia.com'
+  - '+.bootcss.com'
+  - '+.icbc.com.cn'
+  - '+.spdb.com.cn'
+  - '+.qiniudn.com'
+  - '+.baishan.com'
+  - '+.eshimin.com'
+  - '+.toutiao.com'
+  - '+.huoshan.com'
+  - '+.gifshow.com'
+  - '+.autonavi.com'
+  - '+.eshiyun.info'
+  - '+.bankcomm.com'
+  - '+.miaozhen.com'
+  - '+.doubanio.com'
+  - '+.gamersky.com'
+  - '+.kuaishou.com'
+  - '+.youai123.com'
+  - '+.elemecdn.com'
+  - '+.iesdouyin.com'
+  - '+.manmanbuy.com'
+  - '+.globalsign.com'
+  - '+.ctobsnssdk.com'
+  - '+.ampproject.com'
+  - '+.ampproject.org'
+  - '+.ixiguavideo.com'
