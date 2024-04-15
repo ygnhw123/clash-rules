@@ -184,6 +184,7 @@ payload:
   - '+.namesilo.com'
   - '+.alfredapp.com'
   - '+.speedtest.net'
+  - '+.darkreader.org'
   - '+.iliuyuyang.com'
   - '+.adguard-dns.com'
   - '+.doubleclick.net'
