@@ -1,196 +1,210 @@
 payload:
   # Google
-  - '+.g.co'
-  - '+.yt.be'
-  - '+.abc.xyz'
-  - '+.gvt1.com'
-  - '+.gvt2.com'
-  - '+.gvt3.com'
-  - '+.pki.goog'
-  - '+.youtu.be'
-  - '+.godoc.org'
-  - '+.ytimg.com'
-  - '+.ggpht.com'
-  - '+.gmail.com'
-  - '+.dns.google'
-  - '+.golang.org'
-  - '+.chrome.com'
-  - '+.google.com'
-  - '+.youtube.com'
-  - '+.gstatic.com'
-  - '+.android.com'
-  - '+.chromium.org'
-  - '+.gmodules.com'
-  - '+.recaptcha.com'
-  - '+.recaptcha.net'
-  - '+.androidify.com'
-  - '+.googleapis.com'
-  - '+.googlevideo.com'
-  - '+.googlesyndication.com'
-  - '+.googleusercontent.com'
+  - DOMAIN-SUFFIX , g.co
+  - DOMAIN-SUFFIX , yt.be
+  - DOMAIN-SUFFIX , abc.xyz
+  - DOMAIN-SUFFIX , gvt1.com
+  - DOMAIN-SUFFIX , gvt2.com
+  - DOMAIN-SUFFIX , gvt3.com
+  - DOMAIN-SUFFIX , pki.goog
+  - DOMAIN-SUFFIX , youtu.be
+  - DOMAIN-SUFFIX , godoc.org
+  - DOMAIN-SUFFIX , ytimg.com
+  - DOMAIN-SUFFIX , ggpht.com
+  - DOMAIN-SUFFIX , gmail.com
+  - DOMAIN-SUFFIX , dns.google
+  - DOMAIN-SUFFIX , golang.org
+  - DOMAIN-SUFFIX , chrome.com
+  - DOMAIN-SUFFIX , google.com
+  - DOMAIN-SUFFIX , youtube.com
+  - DOMAIN-SUFFIX , gstatic.com
+  - DOMAIN-SUFFIX , android.com
+  - DOMAIN-SUFFIX , chromium.org
+  - DOMAIN-SUFFIX , gmodules.com
+  - DOMAIN-SUFFIX , recaptcha.com
+  - DOMAIN-SUFFIX , recaptcha.net
+  - DOMAIN-SUFFIX , androidify.com
+  - DOMAIN-SUFFIX , googleapis.com
+  - DOMAIN-SUFFIX , googlevideo.com
+  - DOMAIN-SUFFIX , googlesyndication.com
+  - DOMAIN-SUFFIX , googleusercontent.com
 
   # Microsoft
-  - '+.gfx.ms'
-  - '+.svc.ms'
-  - '+.live.com'
-  - '+.live.net'
-  - '+.bing.com'
-  - '+.1drv.com'
-  - '+.symcd.com'
-  - '+.azure.com'
-  - '+.skype.com'
-  - '+.trouter.io'
-  - '+.msedge.net'
-  - '+.msecnd.com'
-  - '+.msecnd.net'
-  - '+.office.com'
-  - '+.office.net'
-  - '+.msocdn.com'
-  - '+.onestore.ms'
-  - '+.windows.com'
-  - '+.hotmail.com'
-  - '+.outlook.com'
-  - '+.windows.net'
-  - '+.exp-tas.com'
-  - '+.onedrive.com'
-  - '+.appcenter.ms'
-  - '+.evernote.com'
-  - '+.xboxlive.com'
-  - '+.office365.com'
-  - '+.microsoft.com'
-  - '+.aspnetcdn.com'
-  - '+.optimizely.com'
-  - '+.sharepoint.com'
-  - '+.skypeassets.com'
-  - '+.visualstudio.com'
-  - '+.windowsupdate.com'
-  - '+.sharepointonline.com'
+  - DOMAIN-SUFFIX , gfx.ms
+  - DOMAIN-SUFFIX , svc.ms
+  - DOMAIN-SUFFIX , live.com
+  - DOMAIN-SUFFIX , live.net
+  - DOMAIN-SUFFIX , bing.com
+  - DOMAIN-SUFFIX , 1drv.com
+  - DOMAIN-SUFFIX , symcd.com
+  - DOMAIN-SUFFIX , azure.com
+  - DOMAIN-SUFFIX , skype.com
+  - DOMAIN-SUFFIX , trouter.io
+  - DOMAIN-SUFFIX , msedge.net
+  - DOMAIN-SUFFIX , msecnd.com
+  - DOMAIN-SUFFIX , msecnd.net
+  - DOMAIN-SUFFIX , office.com
+  - DOMAIN-SUFFIX , office.net
+  - DOMAIN-SUFFIX , msocdn.com
+  - DOMAIN-SUFFIX , onestore.ms
+  - DOMAIN-SUFFIX , windows.com
+  - DOMAIN-SUFFIX , hotmail.com
+  - DOMAIN-SUFFIX , outlook.com
+  - DOMAIN-SUFFIX , windows.net
+  - DOMAIN-SUFFIX , exp-tas.com
+  - DOMAIN-SUFFIX , onedrive.com
+  - DOMAIN-SUFFIX , appcenter.ms
+  - DOMAIN-SUFFIX , evernote.com
+  - DOMAIN-SUFFIX , xboxlive.com
+  - DOMAIN-SUFFIX , office365.com
+  - DOMAIN-SUFFIX , microsoft.com
+  - DOMAIN-SUFFIX , aspnetcdn.com
+  - DOMAIN-SUFFIX , optimizely.com
+  - DOMAIN-SUFFIX , sharepoint.com
+  - DOMAIN-SUFFIX , skypeassets.com
+  - DOMAIN-SUFFIX , visualstudio.com
+  - DOMAIN-SUFFIX , windowsupdate.com
+  - DOMAIN-SUFFIX , sharepointonline.com
 
   # Paypal
-  - '+.tapad.com'
-  - '+.paypal.com'
-  - '+.ensighten.com'
-  - '+.myvisualiq.net'
-  - '+.paypalobjects.com'
+  - DOMAIN-SUFFIX , tapad.com
+  - DOMAIN-SUFFIX , paypal.com
+  - DOMAIN-SUFFIX , ensighten.com
+  - DOMAIN-SUFFIX , myvisualiq.net
+  - DOMAIN-SUFFIX , paypalobjects.com
 
   # Amazon
-  - '+.amazonaws.com'
-  - '+.cloudfront.com'
-  - '+.cloudfront.net'
+  - DOMAIN-SUFFIX , amazonaws.com
+  - DOMAIN-SUFFIX , cloudfront.com
+  - DOMAIN-SUFFIX , cloudfront.net
 
   # Facebook
-  - '+.fb.me'
-  - '+.fb.com'
-  - '+.fbcdn.com'
-  - '+.fbcdn.net'
-  - '+.facebook.com'
-  - '+.instagram.com'
+  - DOMAIN-SUFFIX , fb.me
+  - DOMAIN-SUFFIX , fb.com
+  - DOMAIN-SUFFIX , fbcdn.com
+  - DOMAIN-SUFFIX , fbcdn.net
+  - DOMAIN-SUFFIX , facebook.com
+  - DOMAIN-SUFFIX , instagram.com
 
   # Twitter
-  - '+.t.co'
-  - '+.twimg.com'
-  - '+.twitter.com'
+  - DOMAIN-SUFFIX , t.co
+  - DOMAIN-SUFFIX , twimg.com
+  - DOMAIN-SUFFIX , twitter.com
 
   # Github
-  - '+.github.com'
-  - '+.githubusercontent.com'
+  - DOMAIN-SUFFIX , github.com
+  - DOMAIN-SUFFIX , githubusercontent.com
 
   # Telegram
-  - '+.t.me'
-  - '+.telegram.me'
-  - '+.telegram.net'
-  - '+.telegram.org'
-  - '+.telegram.com'
-  - '+.telegram.space'
-  - '+.telegramdownload.com'
+  - DOMAIN-SUFFIX , t.me
+  - DOMAIN-SUFFIX , telegram.me
+  - DOMAIN-SUFFIX , telegram.net
+  - DOMAIN-SUFFIX , telegram.org
+  - DOMAIN-SUFFIX , telegram.com
+  - DOMAIN-SUFFIX , telegram.space
+  - DOMAIN-SUFFIX , telegramdownload.com
+  - IP-CIDR6      , 2001:67c:4e8::/48
+  - IP-CIDR6      , 2001:b28:f23c::/47
+  - IP-CIDR6      , 2001:b28:f23f::/48
+  - IP-CIDR6      , 2a0a:f280::/32
+  - IP-CIDR       , 91.105.192.0/23
+  - IP-CIDR       , 91.108.4.0/22
+  - IP-CIDR       , 91.108.8.0/21
+  - IP-CIDR       , 91.108.16.0/21
+  - IP-CIDR       , 91.108.56.0/22
+  - IP-CIDR       , 95.161.64.0/20
+  - IP-CIDR       , 149.154.160.0/20
+  - IP-CIDR       , 185.76.151.0/24
 
   # Whatsapp
-  - '+.whatsapp.net'
-  - '+.whatsapp.org'
-  - '+.whatsapp.com'
-  - '+.whatsapp.space'
+  - DOMAIN-SUFFIX , whatsapp.net
+  - DOMAIN-SUFFIX , whatsapp.org
+  - DOMAIN-SUFFIX , whatsapp.com
+  - DOMAIN-SUFFIX , whatsapp.space
 
   # Akamai
-  - '+.akadns.net'
-  - '+.akamai.com'
-  - '+.akamai.net'
-  - '+.akamaihd.net'
-  - '+.akamaized.net'
-  - '+.akamai-staging.net'
+  - DOMAIN-SUFFIX , akadns.net
+  - DOMAIN-SUFFIX , akamai.com
+  - DOMAIN-SUFFIX , akamai.net
+  - DOMAIN-SUFFIX , akamaihd.net
+  - DOMAIN-SUFFIX , akamaized.net
+  - DOMAIN-SUFFIX , akamai-staging.net
 
   # Cloudflare
-  - '+.cloudflare.com'
-  - '+.cloudflare-dns.com'
+  - DOMAIN-SUFFIX , cloudflare.com
+  - DOMAIN-SUFFIX , cloudflare-dns.com
 
   # Sourceforge
-  - '+.sourceforge.com'
-  - '+.sourceforge.net'
+  - DOMAIN-SUFFIX , sourceforge.com
+  - DOMAIN-SUFFIX , sourceforge.net
 
   # Wikepedia
-  - '+.wikipedia.org'
-  - '+.wikimedia.org'
+  - DOMAIN-SUFFIX , wikipedia.org
+  - DOMAIN-SUFFIX , wikimedia.org
 
   # Quora
-  - '+.quora.net'
-  - '+.quora.com'
-  - '+.quoracdn.net'
-  - '+.quoracdn.com'
+  - DOMAIN-SUFFIX , quora.net
+  - DOMAIN-SUFFIX , quora.com
+  - DOMAIN-SUFFIX , quoracdn.net
+  - DOMAIN-SUFFIX , quoracdn.com
 
   # Stackoverflow
-  - '+.sstatic.net'
-  - '+.stackoverflow.com'
+  - DOMAIN-SUFFIX , sstatic.net
+  - DOMAIN-SUFFIX , stackoverflow.com
 
   # Dropbox
-  - '+.dropbox.com'
-  - '+.dropboxforum.com'
-  - '+.dropboxstatic.com'
+  - DOMAIN-SUFFIX , dropbox.com
+  - DOMAIN-SUFFIX , dropboxforum.com
+  - DOMAIN-SUFFIX , dropboxstatic.com
 
   # Nextcloud
-  - '+.nextcloud.org'
-  - '+.nextcloud.com'
+  - DOMAIN-SUFFIX , nextcloud.org
+  - DOMAIN-SUFFIX , nextcloud.com
 
   # Firefox
-  - '+.firefox.com'
-  - '+.mozilla.com'
+  - DOMAIN-SUFFIX , firefox.com
+  - DOMAIN-SUFFIX , mozilla.com
 
   # Battle
-  - '+.battle.com'
-  - '+.battle.net'
-  - '+.blizzard.com'
-  - '+.blzstatic.com'
+  - DOMAIN-SUFFIX , battle.com
+  - DOMAIN-SUFFIX , battle.net
+  - DOMAIN-SUFFIX , blizzard.com
+  - DOMAIN-SUFFIX , blzstatic.com
 
   # Steam
-  - '+.gvt1.com'
-  - '+.dota2.com'
-  - '+.steam-chat.com'
-  - '+.steamstatic.com'
-  - '+.steampowered.com'
-  - '+.steamcontent.com'
+  - DOMAIN-SUFFIX , gvt1.com
+  - DOMAIN-SUFFIX , dota2.com
+  - DOMAIN-SUFFIX , steam-chat.com
+  - DOMAIN-SUFFIX , steamstatic.com
+  - DOMAIN-SUFFIX , steampowered.com
+  - DOMAIN-SUFFIX , steamcontent.com
 
   # Other
-  - '+.fast.com'
-  - '+.v2ex.com'
-  - '+.vultr.com'
-  - '+.zxcs.info'
-  - '+.nginx.org'
-  - '+.trello.com'
-  - '+.medium.com'
-  - '+.linode.com'
-  - '+.adguard.com'
-  - '+.adguard.org'
-  - '+.nssurge.com'
-  - '+.sectigo.com'
-  - '+.hostloc.com'
-  - '+.digicert.com'
-  - '+.namesilo.com'
-  - '+.alfredapp.com'
-  - '+.speedtest.net'
-  - '+.darkreader.org'
-  - '+.iliuyuyang.com'
-  - '+.adguard-dns.com'
-  - '+.doubleclick.net'
-  - '+.letsencrypt.org'
-  - '+.adblockplus.org'
-  - '+.tampermonkey.net'
-  - '+.bettertouchtool.net'
-  - '+.surge-activation.com'
+  - DOMAIN-SUFFIX , zi0.cc
+  - DOMAIN-SUFFIX , fast.com
+  - DOMAIN-SUFFIX , v2ex.com
+  - DOMAIN-SUFFIX , vultr.com
+  - DOMAIN-SUFFIX , zxcs.info
+  - DOMAIN-SUFFIX , nginx.org
+  - DOMAIN-SUFFIX , trello.com
+  - DOMAIN-SUFFIX , medium.com
+  - DOMAIN-SUFFIX , linode.com
+  - DOMAIN-SUFFIX , adguard.com
+  - DOMAIN-SUFFIX , adguard.org
+  - DOMAIN-SUFFIX , nssurge.com
+  - DOMAIN-SUFFIX , sectigo.com
+  - DOMAIN-SUFFIX , hostloc.com
+  - DOMAIN-SUFFIX , digicert.com
+  - DOMAIN-SUFFIX , namesilo.com
+  - DOMAIN-SUFFIX , alfredapp.com
+  - DOMAIN-SUFFIX , speedtest.net
+  - DOMAIN-SUFFIX , darkreader.org
+  - DOMAIN-SUFFIX , iliuyuyang.com
+  - DOMAIN-SUFFIX , adguard-dns.com
+  - DOMAIN-SUFFIX , doubleclick.net
+  - DOMAIN-SUFFIX , letsencrypt.org
+  - DOMAIN-SUFFIX , adblockplus.org
+  - DOMAIN-SUFFIX , tampermonkey.net
+  - DOMAIN-SUFFIX , bettertouchtool.net
+  - DOMAIN-SUFFIX , surge-activation.com
+  - DOMAIN-SUFFIX , checktrustworthiness.com
